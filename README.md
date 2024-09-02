@@ -2,6 +2,9 @@
 
 # Real Estate Project in Gujarat: Analysis and Investment Recommendations
 
+[Uploading Gujrat-Real-Estate.ipynb…]()
+
+
 ![1708191111682](https://github.com/user-attachments/assets/bcb80277-b297-4ddb-a2ea-0cd92d510996)
 
 
